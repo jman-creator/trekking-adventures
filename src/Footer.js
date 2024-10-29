@@ -13,7 +13,7 @@ export default function Footer() {
                 <img className="social-icon clickable" src={youtubeIcon} alt="youtube icon" />
             </div>
             <div className="credit">
-                Design by <a href="https://www.freepik.com">Freepik</a><br/>(Minor and responsiveness alterations by developer)
+                Design by <a href="https://www.freepik.com" target="_blank" rel="noreferrer">Freepik</a><br/>(Minor and responsiveness alterations by developer)
             </div>
         </div>
     );
